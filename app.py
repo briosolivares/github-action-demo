@@ -1,5 +1,5 @@
 def add(a, b):
     return a + b
 
-def su):
+def subtract(a, b):
     return a - b
